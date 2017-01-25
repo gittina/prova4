@@ -1,0 +1,26 @@
+{
+  "name": "prova3",
+  "version": "1.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gittina/prova3.git"
+  },
+  "author": "mp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gittina/prova3/issues"
+  }
+}
